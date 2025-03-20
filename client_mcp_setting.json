@@ -1,0 +1,16 @@
+
+{
+  "mcpServers": {
+    "weather-mcp": {
+        "name": "天气查询服务",
+        "key": "weather-mcp",
+        "command": "node",
+        "args": [
+          "H:\\项目\\mcp-server\\server.js"
+        ],
+        "env": {},
+        "disabled": false,
+        "autoApprove": []
+      }
+  }
+}
