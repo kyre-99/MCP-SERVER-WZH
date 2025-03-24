@@ -11,6 +11,14 @@
         "env": {},
         "disabled": false,
         "autoApprove": []
+      },
+      "bilibili-mcp": {
+        "name": "bilibili-mcp",
+        "key": "bilibili-mcp",
+        "command": "python",
+        "args": [
+          "D:\\PycharmProjects\\MCP-SERVER-WZH\\bilibili\\bilibili.py"
+        ]
       }
   }
 }
